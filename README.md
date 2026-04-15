@@ -2,7 +2,6 @@
 
 An end-to-end **Exploratory Data Analysis (EDA)** project on the famous Superstore Sales dataset. This project uncovers valuable business insights using Python and data visualization.
 
-![Sales by Category](images/sales_by_category.png)
 
 ## 📊 Project Overview
 
@@ -42,14 +41,14 @@ This analysis explores sales performance across different dimensions such as **C
    ```bash
    git clone https://github.com/HaroonAkhtar-09/superstore-sales-analysis.git
 
-2.Navigate to the project folder:
-  ```bash
-  cd superstore-sales-analysis
+2. Navigate to the project folder:
+   ```bash
+   cd superstore-sales-analysis
 
-3.Install required libraries:
- ```bash
-  pip install -r requirements.txt
+3. Install required libraries:
+   ```bash
+   pip install -r requirements.txt
 
-4.Open the notebook:
-```bash
-  jupyter notebook superstore_sales_analysis.ipynb
+4. Open the notebook:
+   ```bash
+   jupyter notebook superstore_sales_analysis.ipynb
