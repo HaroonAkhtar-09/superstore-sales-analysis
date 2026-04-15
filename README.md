@@ -41,3 +41,15 @@ This analysis explores sales performance across different dimensions such as **C
 1. Clone the repository:
    ```bash
    git clone https://github.com/HaroonAkhtar-09/superstore-sales-analysis.git
+
+2.Navigate to the project folder:
+ ```bash
+  cd superstore-sales-analysis
+
+3.Install required libraries:
+ ```bash
+  pip install -r requirements.txt
+
+4.Open the notebook:
+ ```bash
+  jupyter notebook superstore_sales_analysis.ipynb
