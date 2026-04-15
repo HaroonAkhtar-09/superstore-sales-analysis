@@ -2,6 +2,8 @@
 
 An end-to-end **Exploratory Data Analysis (EDA)** project on the famous Superstore Sales dataset. This project uncovers valuable business insights using Python and data visualization.
 
+<image-card alt="Sales by Category" src="images/sales_by_category.png" ></image-card>
+
 
 ## 📊 Project Overview
 
