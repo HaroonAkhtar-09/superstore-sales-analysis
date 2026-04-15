@@ -40,4 +40,4 @@ This analysis explores sales performance across different dimensions such as **C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/superstore-sales-analysis.git
+   git clone https://github.com/HaroonAkhtar-09/superstore-sales-analysis.git
