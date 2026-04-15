@@ -47,9 +47,9 @@ This analysis explores sales performance across different dimensions such as **C
   cd superstore-sales-analysis
 
 3.Install required libraries:
-  ```bash
+ ```bash
   pip install -r requirements.txt
 
 4.Open the notebook:
-  ```bash
+```bash
   jupyter notebook superstore_sales_analysis.ipynb
